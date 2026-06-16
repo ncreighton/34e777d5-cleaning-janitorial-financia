@@ -1,2 +1,28 @@
-# 34e777d5-cleaning-janitorial-financia
-Tired of guessing your profit margins between recurring residential contracts and one-off commercial deep cleans? This Notion template turns your cleaning business finances from chaotic spreadsheets into a clear, automated system that accounts for every mop head and hour.  Most budget trackers force you to adapt to a generic format, but this templa
+# Cleaning & Janitorial Financial Planning and Budget Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm8wP4ePf6QaNOgUcd0j41)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm8wP4ePf6QaNOgUcd0j41)
+
